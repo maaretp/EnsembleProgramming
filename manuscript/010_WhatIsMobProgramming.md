@@ -23,6 +23,8 @@ Roles:
 * **Navigators** are the people off the keyboard. They are the ones doing the work by using their words to express intent the driver turns into action.
 * **Designated Navigator** is one navigator channeling the group to the driver. This role is often necessary when first starting to practice mob programming and dissolves later.
 
+![Mob Programming Roles](images/MobRoles.jpg)
+
 Rules:
 
 * **Rotate on timer**. Whoever is on the keyboard moves away and makes space for the next one. Timer is in scale of minutes.
@@ -64,7 +66,7 @@ Mob programming is a software development method - all code is produced in mob. 
 
 Other teams use mob programming within a time box. They work solo or in pairs except for mob programming sessions introduced to share knowledge amongst team members.
 
-Consultants and trainers have found mob programming to be an effective way to teach groups of people habits and hands-on skills. Facilitating a mob allows the facilitator to impact the work as it is done instead of discussing an experience of doing something in the abstract. 
+Consultants and trainers have found mob programming to be an effective way to teach groups of people habits and hands-on skills. Facilitating a mob allows the facilitator to impact the work as it is done instead of discussing an experience of doing something in the abstract.
 
 ## Benefits of High communication
 
