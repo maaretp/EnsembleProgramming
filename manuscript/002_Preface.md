@@ -10,16 +10,6 @@ We continued mob programming as a way of learning, having a session every two we
 
 Since that team, I have used mob programming as a way of consulting and teaching, having now perspectives to the difference people say they know and what they can do being put on the work. Mob programming - and mob testing - have become invaluable for growing the next generations of professionals as well as keeping the current generations continuously learning.
 
-I still face resistance to mob programming from senior developers who get the job done alone. They learned their way, reading books and articles and writing and delivering code. They don't find their motivation for mob programming in learning, but enabling learning of others. 
+I still face resistance to mob programming from senior developers who get the job done alone. They learned their way, reading books and articles and writing and delivering code. They don't find their motivation for mob programming in learning, but enabling learning of others.
 
-## Growing Your Wizard
-
-Teams have people with different skills areas and levels. Your team may have high level the warriors, who get through every battle alive. But your team may also have low level wizard, who will die in battle without their team protecting them, allowing them to collect the experience for leveling up.
-
-We don't work only to do the work of today. We build the abilities to do the work of tomorrow. The low level wizard of today is the high level wizard of the future, who will cast a spell from the back row making your battles painless. But you need to support them while they get there, exposing them safely to the experience.
-
-And even the most seasoned warriors amongst us have more to learn. Not only from other seasoned ones, but perspectives that enable us to work smart instead of hard.
-
-In programming, we find the work we need to do as we do the work and our assumptions unfold into realities. Getting the best out of everyone into the work we are doing is worthwhile, enables learning and streamlines the results.
-
-Enjoy mob programming guidebook. Try mobbing out and make it your own.
+Enjoy mob programming guidebook. Try mobbing out and make it your own. This book is just for you to get started. We are all still discovering ways to turn up the good. 
