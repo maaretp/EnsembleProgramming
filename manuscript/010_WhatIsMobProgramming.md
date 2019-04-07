@@ -40,7 +40,7 @@ Many people look at mob programming and wonder on why would we use so many peopl
 
 You need to think of software work in a completely different way. Typing the code is not programming. Creating a solution that stands the test of time in production is. Quality of what we produce matters - in the immediate solution, the supporting structures created to make it available for users, and the people's abilities who produce more software later.
 
-Instead of thinking about how we can get the most out of our team, we ask how we can get the best out of our team. Getting people together on a particularly difficult problem, swarming, had been used before. When Woody Zuill and his team at Hunter Industries moved from temporary group work to group work being the default way of working throughout the work week, Mob Programming was born. They realized that paying attention to what was working well and doing more of it created a whole new approach to developing software. 
+Instead of thinking about how we can get the most out of our team, we ask how we can get the best out of our team. Getting people together on a particularly difficult problem, swarming, had been used before. When Woody Zuill and his team at Hunter Industries moved from temporary group work to group work being the default way of working throughout the work week, Mob Programming was born. They realized that paying attention to what was working well and doing more of it created a whole new approach to developing software.
 
 Many teams bring a group of people together on tough problems. Most teams after coming together to solve a problem say "Problem solved, let's go back to normal". Mob programming asks "We had very high performance together, how can we do more of that?".
 
@@ -62,9 +62,9 @@ For mob programming, we say the right size of a group is one where everyone is s
 
 Two people are a pair. Three and above are a mob. Moving from a pair to a group changes the interpersonal relationships, and we find that people who misbehave in a pair are on better behavior in a group. More people maximize the chance of serendipitous learning from the other members in the group.
 
-Mob programming is a software development method - all code is produced in mob. When the team works, they work together. Mob programming goes beyond a timeboxed practice session. It's what mob programming teams do, all day, every day.
+Mob programming is a software development method - all code is produced in mob. When the team works, they work together. Mob programming goes beyond a time-boxed practice session. It's what mob programming teams do, all day, every day.
 
-Other teams use mob programming within a time box. They work solo or in pairs except for mob programming sessions introduced to share knowledge amongst team members.
+Other teams use mob programming within a time-box. They work solo or in pairs except for mob programming sessions introduced to share knowledge amongst team members.
 
 Consultants and trainers have found mob programming to be an effective way to teach groups of people habits and hands-on skills. Facilitating a mob allows the facilitator to impact the work as it is done instead of discussing an experience of doing something in the abstract.
 
