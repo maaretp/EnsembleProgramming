@@ -40,7 +40,7 @@ Many people look at mob programming and wonder on why would we use so many peopl
 
 You need to think of software work in a completely different way. Typing the code is not programming. Creating a solution that stands the test of time in production is. Quality of what we produce matters - in the immediate solution, the supporting structures created to make it available for users, and the people's abilities who produce more software later.
 
-Instead of thinking about how we can get the most out of our team, we ask how we can get the best out of our team. We've used swarming approaches to particularly tricky problems before, yet mob programming was discovered as a whole team way of working consistently by Woody Zuill and his team at Hunter Industries. They noticed how working on particularly tough problems benefited from everyone working together, and started paying attention to how they could do more of the things that were working for them.
+Instead of thinking about how we can get the most out of our team, we ask how we can get the best out of our team. Getting people together on a particularly difficult problem, swarming, had been used before. When Woody Zuill and his team at Hunter Industries moved from temporary group work to group work being the default way of working throughout the work week, Mob Programming was born. They realized that paying attention to what was working well and doing more of it created a whole new approach to developing software. 
 
 Many teams bring a group of people together on tough problems. Most teams after coming together to solve a problem say "Problem solved, let's go back to normal". Mob programming asks "We had very high performance together, how can we do more of that?".
 
