@@ -9,4 +9,4 @@ I would love to hear from you. What questions you have, what lessons have been u
 Maaret Pyh&auml;j&auml;rvi
 
 maaret@iki.fi
-https://twitter.com/maaretp  #MobProgrammingGuidebook
+ 
